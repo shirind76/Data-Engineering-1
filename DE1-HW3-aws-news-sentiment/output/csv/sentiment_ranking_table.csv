@@ -1,0 +1,11 @@
+content_type,source,polarity
+youtube,cnn_news,-0.1496220082044602
+youtube,cnbc_news,-0.1195791363716125
+article,german,-0.024002229794859897
+article,cnn,-0.0028895679861307005
+article,cnbc,-0.0022338608687277
+youtube,cnbc_fast_money,0.0190784446895123
+article,reuters,0.030274106189608505
+article,bbc,0.0419593956321478
+youtube,reuters_powell,0.0667433086782694
+youtube,fox_news,0.1149463180918247

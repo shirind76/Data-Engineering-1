@@ -1,0 +1,5 @@
+service,usage,cost_usd
+Amazon Translate,1199,0.017985
+Amazon Comprehend,10,0.001
+Amazon Transcribe,900,0.36000000000000004
+TOTAL,,0.378985

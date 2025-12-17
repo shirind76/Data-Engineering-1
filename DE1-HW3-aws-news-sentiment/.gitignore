@@ -1,0 +1,14 @@
+# AWS credentials
+accessKeys.csv
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+

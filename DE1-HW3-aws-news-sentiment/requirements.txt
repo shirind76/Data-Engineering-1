@@ -1,0 +1,6 @@
+boto3
+pandas
+matplotlib
+beautifulsoup4
+requests
+
